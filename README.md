@@ -1,2 +1,2 @@
 # toymap
-Playing around with satellite maps
+Playing around with mapbox
